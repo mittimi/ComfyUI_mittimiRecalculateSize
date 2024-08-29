@@ -2,7 +2,7 @@
 name = "comfyui_mittimi_recalculate_size"
 description = "This is the node that performs the magnification calculation."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE.txt" }
 
 [project.urls]
 Repository = "https://github.com/mittimi/ComfyUI_mittimiRecalculateSize"
